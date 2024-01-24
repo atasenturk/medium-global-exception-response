@@ -1,0 +1,6 @@
+@ResponseModelWebApi_HostAddress = http://localhost:5086
+
+GET {{ResponseModelWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
